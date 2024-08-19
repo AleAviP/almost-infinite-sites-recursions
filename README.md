@@ -1,5 +1,5 @@
 # almost-infinite-sites-recursions
-Joint work with A. Avalos-Pacheco. Plublically availiable coppy of python-implementation of almost-inifinite-sites-recursions.
+Joint work with A. Avalos-Pacheco. Plublically availiable copy of python-implementation of almost-inifinite-sites-recursions.
 
 To generate likelihood curves, install required external libraries (numpy, matplotlib), and run
 
